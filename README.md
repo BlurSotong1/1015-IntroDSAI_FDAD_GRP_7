@@ -1,7 +1,3 @@
-Creating a README file for this project would be a great way to provide an overview of the project, its goals, the data used, the steps taken in data preprocessing and analysis, and any additional information that might be useful for someone looking to understand or replicate the project. Here's a sample README file:
-
----
-
 # Predicting Heart Disease Presence
 
 ## Overview
@@ -33,6 +29,3 @@ The dataset used in this project contains information on various physical charac
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-Feel free to customize this README template to suit the specifics of your project and add any additional sections or details as neede
