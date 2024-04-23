@@ -28,7 +28,8 @@ The dataset used in this project contains information on various physical charac
 - Future research could focus on incorporating additional data sources or expanding the scope of analysis to include other risk factors or comorbidities associated with heart diseases.
 
 ## Contributors
-- Lee Choonggi (
+- Lee Choonggi (choonggi001@e.ntu.edu.sg)
+- Lee Pei Xin (leep0066@e.ntu.edu.sg)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
