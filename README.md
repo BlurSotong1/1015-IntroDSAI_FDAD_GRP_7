@@ -1,5 +1,8 @@
 # Predicting Heart Disease Presence
 
+## dataset link:
+https://www.kaggle.com/code/desalegngeb/heart-disease-predictions/notebook
+
 ## Overview
 Heart diseases are a significant cause of mortality worldwide, with Singapore experiencing a high prevalence. This project aims to develop a predictive model to identify individuals at risk of heart disease based on various physical characteristics and medical attributes. By leveraging machine learning techniques and thorough data analysis, we seek to assist healthcare professionals in early detection, treatment, and prevention of heart diseases, ultimately reducing the number of deaths and improving the quality of life for affected individuals and their families in Singapore.
 
@@ -26,6 +29,16 @@ The dataset used in this project contains information on various physical charac
 ## Contributors
 - Lee Choonggi (choonggi001@e.ntu.edu.sg)
 - Lee Pei Xin (leep0066@e.ntu.edu.sg)
+
+## References
+
+https://www.kaggle.com/code/desalegngeb/heart-disease-predictions/notebook
+https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=In%20Singapore%2C%2023%20people%20die,to%20heart%20diseases%20or%20stroke.
+https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/
+https://www.ibm.com/topics/random-forest
+https://www.investopedia.com/terms/t/t-test.asp
+https://www.investopedia.com/terms/a/anova.asp
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
