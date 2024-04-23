@@ -19,7 +19,7 @@ The dataset used in this project contains information on various physical charac
 - Exploratory data analysis revealed surprising insights, such as the presence of a dual peak in disease presence at younger ages, and provided valuable information on the distribution and correlations of various factors with heart disease presence.
 
 ## Evaluation and Future Directions
-- The predictive model developed in this project achieved an accuracy of X% on the test dataset.
+- The predictive model developed in this project achieved an accuracy of 85.00% on the test dataset.
 - Further refinements to the model could include feature engineering, hyperparameter tuning, and exploring advanced machine learning algorithms such as ensemble methods or neural networks.
 - Future research could focus on incorporating additional data sources or expanding the scope of analysis to include other risk factors or comorbidities associated with heart diseases.
 
