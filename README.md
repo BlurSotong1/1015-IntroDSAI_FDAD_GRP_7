@@ -39,6 +39,3 @@ https://www.ibm.com/topics/random-forest
 https://www.investopedia.com/terms/t/t-test.asp
 https://www.investopedia.com/terms/a/anova.asp
 https://www.ibm.com/docs/en/spss-modeler/saas?topic=models-how-svm-works
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
