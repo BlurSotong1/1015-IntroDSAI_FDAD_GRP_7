@@ -9,6 +9,8 @@ https://www.kaggle.com/code/desalegngeb/heart-disease-predictions/notebook
 ## Overview
 Heart diseases are a significant cause of mortality worldwide, with Singapore experiencing a high prevalence. This project aims to develop a predictive model to identify individuals at risk of heart disease based on various physical characteristics and medical attributes. By leveraging machine learning techniques and thorough data analysis, we seek to assist healthcare professionals in early detection, treatment, and prevention of heart diseases, ultimately reducing the number of deaths and improving the quality of life for affected individuals and their families in Singapore.
 
+We used python to build a predictive model that included models such as Random Forest and Support Vector Machine.
+
 ## Dataset
 The dataset used in this project contains information on various physical characteristics and medical attributes of individuals, sourced from [heart.csv](heart.csv). It includes features such as age, gender, chest pain type, resting blood pressure, serum cholesterol levels, fasting blood sugar, electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise, the slope of the peak exercise ST segment, the number of major vessels, thalassemia, and the presence of heart disease.
 
