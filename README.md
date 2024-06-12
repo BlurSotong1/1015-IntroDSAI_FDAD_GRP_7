@@ -33,7 +33,6 @@ The dataset used in this project contains information on various physical charac
 
 ## Contributors
 - Lee Choonggi (choonggi001@e.ntu.edu.sg)
-- Lee Pei Xin (leep0066@e.ntu.edu.sg)
 
 ## References
 
